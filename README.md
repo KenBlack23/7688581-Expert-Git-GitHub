@@ -59,3 +59,6 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+# modification pour tester 
+je suis le premier plan d'attaque du cours opcenclassroom. Il s'agit de modifier le README.md et ensuite faire un commmit et un pull request.
