@@ -9,6 +9,7 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 
 ## Comment contriburer ?
 une autre faute pire que la faute de frappe
+un petit  changement sur la version distante afin de pouvoir la maintenir à la suite.
 
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
